@@ -1,0 +1,9 @@
+Designator,Layer,Footprint,Mid X,Mid Y,Rotation,Description
+TL05i,TOP,FP-SHT30-DIS-B2_5KS-IPC_A,80.8990,50.5460,0,SENSOR HUMID/TEMP 5V I2C 3% SMD
+R4,TOP,RESC2013X60X30ML20T20,80.5270,46.8630,360,10 kOhms ±5% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film
+R3,TOP,RESC2013X60X30ML20T20,85.0900,46.8630,360,10 kOhms ±5% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film
+R2,TOP,RESC2013X60X30ML20T20,76.0730,46.8630,180,10 kOhms ±5% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film
+R1,TOP,RESC2013X60X30ML20T20,76.7080,50.4190,270,10 kOhms ±5% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film
+P2,BottomLayer,SMTC-TSW-103-07-X-S,80.5180,43.9420,360,0.025 SQ Post Header, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 3-Pin, Male, RoHS
+P1,BottomLayer,61300411121,80.7720,56.0070,360,THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 4 pins
+C1,TOP,CAPC2013X140X50ML20T25,84.5820,50.4190,270,10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric)
