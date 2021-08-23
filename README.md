@@ -10,7 +10,9 @@ Este dispositivo está basado en el sensor de temperatura SHT30 de la marca sens
 
 # ¿En donde puedo adquirir el sensor TL05i?
 
-Los primeros 100 participantes inscritos en el FIT obtuvieron su BADGE conmemorativo a los 10 años del evento.
+El sensor TL05i se encuentra disponible en Guatemala en la tienda de Electrónica Tettsa, para más información acerca de costos y existencias visite el siguiente [LINK][tienda.tettsa].
+
+[tienda.tettsa]: https://tienda.tettsa.gt/
 
 # ¿Cómo funciona?
 
