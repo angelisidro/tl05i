@@ -3,6 +3,7 @@
 ![](/img/badge.PNG)
 ![](/img/badge2.jpeg)
 
+ANGEL DANIEL 
 Sensor de temperatura y Humedads diseñado por Ángel Isidro, diseñador de dispostivos electrónicos en el laboratorio de investigación y desarrollo Tesla Lab de Universidad Galileo.
 
 Este dispositivo está basado en el sensor de temperatura SHT30 de la marca sensirion, fue diseñado para ser utilizado en el Encuentro Nacional de Robótica BALAM en su edición 2021.
