@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [PCB_SHT30.PrjPcb]
+   Generated File[Pick Place for SHT30PCB.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:34:39 On 23/04/2021
