@@ -36,6 +36,9 @@ GND | GND
 SCL | Serial Clock
 SDA | Serial Data 
 
+# Ejemplo con ESP8266
+![](/img/tl05i.png)
+
 # Licencia
 
 Hardware License: CERN OHL v1.0 para más información visitar el siguiente [Link][CERN_v1].
