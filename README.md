@@ -37,7 +37,7 @@ SCL | Serial Clock
 SDA | Serial Data 
 
 # Ejemplo con ESP8266
-![](/img/tl05i.png)
+![](/img/TL05i.png)
 
 # Licencia
 
